@@ -1,0 +1,8 @@
+{
+    "pool":"http://127.0.0.1:8030",
+    "is_pool": false,
+    "addr": "py04t5334znl44rx545ylzvuw35345o45v333rruiw3gn44ssw3hn4ip434l5xtznv3",
+    "port": 8030,
+    "hostname": "",
+    "allow_ip":"0.0.0.0"
+}
